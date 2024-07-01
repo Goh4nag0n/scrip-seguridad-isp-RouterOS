@@ -1,1 +1,1 @@
-# scrip-seguridad-isp-RouterOS
+# script-seguridad-isp-RouterOS
